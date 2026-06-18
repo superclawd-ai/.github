@@ -15,7 +15,7 @@ SuperClawd loads your team's **skills, agents, commands, workflows, and live dir
 
 ```bash
 npm install -g superclawd
-superclawd configure   # connect your account (one time)
+superclawd login       # sign in via your browser (one time)
 superclawd             # launch Claude Code, supercharged
 ```
 
